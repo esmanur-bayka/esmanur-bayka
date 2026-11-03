@@ -1,26 +1,32 @@
 # Merhaba, ben Esmanur Bayka
 
-**Web arayüzleri geliştiriyor, React ile öğrenme projeleri üzerinde çalışıyorum.**
+Atatürk Üniversitesi **Web Tasarımı ve Kodlama, 2. sınıf** öğrencisiyim. Web geliştirme ve programlama eğitimimi kişisel projelerle destekliyorum. Siber Havadis’te siber güvenlik, yapay zekâ ve teknoloji üzerine gönüllü haber yazarlığı yapıyorum.
 
-Atatürk Üniversitesi **Web Tasarımı ve Kodlama, 2. sınıf** öğrencisiyim. HTML, CSS ve JavaScript temelimi kullanıcı odaklı arayüzlerle geliştirmeyi; web ve mobil uygulama geliştiren bir ürün ekibinde staj yapmayı hedefliyorum.
+**[Portföyümü incele](https://esmanur-bayka.github.io/webtasarimprojesi.github.io/)** · **[CV](https://esmanur-bayka.github.io/webtasarimprojesi.github.io/Esmanur_Bayka_CV.pdf)** · [LinkedIn](https://www.linkedin.com/in/esmanurbayka/)
 
-## Teknik temelim
+## Seçilmiş projeler
 
-| Alan | Teknolojiler |
+### [FocusBoard](https://github.com/esmanur-bayka/focusboard)
+React ile görev panosu: görev oluşturma/düzenleme, filtreleme, durum takibi, yerel kayıt ve silmeyi geri alma. Vitest ve React Testing Library ile 15 otomatik test.
+
+[Çalışan demo](https://esmanur-bayka.github.io/webtasarimprojesi.github.io/focusboard/)
+
+Yapay zekâ desteğiyle hazırlanmış bir öğrenme projesidir. Proje kodunu açıklayabiliyor ve küçük değişiklikler yapabiliyorum.
+
+### [Kişisel portföy](https://github.com/esmanur-bayka/webtasarimprojesi.github.io)
+HTML, CSS ve JavaScript ile özgün siyah-kırmızı tasarım. Sonraki geliştirmelerde yapay zekâ desteğiyle 3D efektler, sertifika filtreleri, klavye erişimi ve duyarlı arayüz iyileştirmeleri eklendi.
+
+## Diller ve teknolojiler
+
+| Kaynak | Alan |
 | --- | --- |
-| Web arayüzleri | HTML, CSS, responsive tasarım |
-| Programlama | Temel JavaScript ve PHP, SQL |
-| Araçlar | VS Code, XAMPP, temel Git |
-| Öğrenme odağı | React, bileşen tabanlı tasarım, test ve erişilebilirlik |
+| Atatürk Üniversitesi | C++, HTML5, CSS3, JavaScript, SQL/T-SQL, Bootstrap ve jQuery eğitimi |
+| Kişisel uygulama | HTML, CSS, JavaScript ile portföy |
+| Devam eden çalışmalar | React, bileşenler, durum yönetimi ve testler |
+| Araçlar | Visual Studio Code, GitHub, XAMPP; temel Git bilgisi |
 
-## Seçilmiş çalışmalar
+## Gönüllü deneyim
+**Siber Havadis · Gönüllü haber yazarı**  
+Siber güvenlik ve teknoloji gündemini takip ediyor, teknik konuları anlaşılır bir dille aktarmaya odaklanıyorum. [Seçilmiş haberlerim ve sertifikalarım](https://esmanur-bayka.github.io/webtasarimprojesi.github.io/#experience).
 
-- **[FocusBoard](https://github.com/esmanur-bayka/focusboard)** — React ile görev yönetimi öğrenme projesi. Görev ekleme/düzenleme, filtreler, ilerleme takibi, yerel kayıt ve otomatik testler. Yapay zekâ desteğiyle hazırlanmıştır.
-- **[Kişisel Portfolyo](https://github.com/esmanur-bayka/webtasarimprojesi.github.io)** — HTML, CSS ve JavaScript ile mobil uyumlu arayüz ve gezinme menüsü çalışması.
-
-## Nasıl gelişmek istiyorum?
-
-Gerçek kullanıcı ihtiyaçlarını küçük ve test edilebilir parçalara ayırmak; kod incelemesi ve geri bildirimle gelişmek; web ve mobil uygulamaların geliştirme ve yayın süreçlerini öğrenmek istiyorum. Web güvenliğine de ilgi duyuyorum.
-
-[LinkedIn](https://www.linkedin.com/in/lynapgrl/) · [GitHub](https://github.com/esmanur-bayka)
-
+[İletişim](mailto:esmabayka374@gmail.com)
