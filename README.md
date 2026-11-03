@@ -1,6 +1,6 @@
 # Merhaba, ben Esmanur Bayka
 
-Atatürk Üniversitesi **Web Tasarımı ve Kodlama, 2. sınıf** öğrencisiyim. Web geliştirme ve programlama eğitimimi kişisel projelerle destekliyorum. Siber Havadis’te siber güvenlik, yapay zekâ ve teknoloji üzerine gönüllü haber yazarlığı yapıyorum.
+Atatürk Üniversitesi **Web Tasarımı ve Kodlama, 2. sınıf** öğrencisiyim. Web geliştirme ve programlama eğitimimi kişisel projelerle destekliyorum. Siber Havadis’te siber güvenlik ve teknoloji üzerine gönüllü haber yazarlığı yapıyorum.
 
 **[Portföyümü incele](https://esmanur-bayka.github.io/webtasarimprojesi.github.io/)** · **[CV](https://esmanur-bayka.github.io/webtasarimprojesi.github.io/Esmanur_Bayka_CV.pdf)** · [LinkedIn](https://www.linkedin.com/in/esmanurbayka/)
 
@@ -11,10 +11,10 @@ React ile görev panosu: görev oluşturma/düzenleme, filtreleme, durum takibi,
 
 [Çalışan demo](https://esmanur-bayka.github.io/webtasarimprojesi.github.io/focusboard/)
 
-Yapay zekâ desteğiyle hazırlanmış bir öğrenme projesidir. Proje kodunu açıklayabiliyor ve küçük değişiklikler yapabiliyorum.
+Proje kodunu açıklayabiliyor ve küçük değişiklikler yapabiliyorum.
 
 ### [Kişisel portföy](https://github.com/esmanur-bayka/webtasarimprojesi.github.io)
-HTML, CSS ve JavaScript ile özgün siyah-kırmızı tasarım. Sonraki geliştirmelerde yapay zekâ desteğiyle 3D efektler, sertifika filtreleri, klavye erişimi ve duyarlı arayüz iyileştirmeleri eklendi.
+HTML, CSS ve JavaScript ile özgün siyah-kırmızı tasarım. Sonraki geliştirmelerde 3D efektler, sertifika filtreleri, klavye erişimi ve duyarlı arayüz iyileştirmeleri eklendi.
 
 ## Diller ve teknolojiler
 
